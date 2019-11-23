@@ -1,0 +1,23 @@
+.image{
+  width: 50px;
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.header-link{
+  position: absolute;
+  padding:10px 10px;
+  font-size: 40px;
+}
+#header{
+  position: absolute;
+  padding:10px 10px;
+  top:0;
+  left:0;
+  background-color: lightblue;
+  width: 100%;
+}
